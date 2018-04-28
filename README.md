@@ -6,8 +6,7 @@
 
 ### 1.1 Compile and Run
 
-	I have stored the folder testScripts inside this project so you can compare it with my code 
-by typing ./osh -t < testScripts/eachtestcase.txt
+	I have stored all test case in the folder testScripts. By typing ./osh -t < testScripts/eachtestcase.txt, you can test each of them
 
 	a/ To test each command:
 
