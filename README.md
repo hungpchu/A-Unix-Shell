@@ -1,8 +1,4 @@
 # Writing-a-Unix-Shell
-<<<<<<< HEAD
-# Designing-a-Virtual-Memory-Manager
-# Designing-a-Virtual-Memory-Manager
-=======
 
 
 
